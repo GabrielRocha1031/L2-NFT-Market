@@ -9,6 +9,15 @@ body {
 	border-radius: 20px;
 }
 
+html{
+	width: 100%;
+}
+
+header{
+background-image: url(../img/Circles.png);
+  background-repeat: no-repeat;
+
+}
 
 .header{
 	position: absolute;
@@ -272,7 +281,7 @@ color: #FFFFFF;
 width: 285px;
 height: 36px;
 left: calc(50% - 285px/2);
-top: 350px;
+top: 380px;
 
 /* Body Large - 24px */
 
